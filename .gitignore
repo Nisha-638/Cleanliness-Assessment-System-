@@ -1,0 +1,23 @@
+# datasets
+raw_images/
+test_images/
+yolo_dataset/
+bad_images/
+
+# training outputs
+runs/
+cleanliness_results/
+predicted_txt/
+
+# annotation folders
+labelme_jsons/
+labelme_jsons2/
+
+# python cache
+__pycache__/
+
+# large files
+*.zip
+*.pt
+*.xlsx
+*.csv
